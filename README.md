@@ -1,16 +1,13 @@
-## Hi there 👋
+# Bem-vindo(a) ao meu Perfil! 👋
 
-<!--
-**juziss/juziss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Escrita Animada](https://i.pinimg.com/originals/58/5f/b8/585fb871dc5698ad1b71f838072cc335.gif)
 
-Here are some ideas to get you started:
+🎓 **Estudante de Sistemas de Informação** na [Unimontes](https://www.unimontes.br).  
+💻 **Habilidades:** Javascript, React, PHP, SQL, Figma, Bootstrap.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🌱 **Atualmente aprendendo:** AWS e Computação em Nuvem.  
+📫 **Contato:** [Email](mailto:julianeta26@gmail.com) | [LinkedIn](https://linkedin.com/in/seu-usuario)  
+✨ **Fatos interessantes:** Amo música, tecnologia e design criativo.
+
