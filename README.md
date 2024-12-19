@@ -1,6 +1,6 @@
 # Bem-vindo(a) ao meu Perfil! 👋
 
-!(https://i.pinimg.com/originals/58/5f/b8/585fb871dc5698ad1b71f838072cc335.gif)
+![Escrita Animada](https://i.pinimg.com/originals/58/5f/b8/585fb871dc5698ad1b71f838072cc335.gif)
 
 🎓 **Estudante de Sistemas de Informação** na [Unimontes](https://www.unimontes.br).  
 💻 **Habilidades:** Javascript, React, PHP, SQL, Figma, Bootstrap.
