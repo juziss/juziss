@@ -1,8 +1,13 @@
 <table>
   <tr>
     <td style="width: 100%;">
-     <h1>Seja bem vindo, terráqueo ( ﾉ ' ')ﾉ</h1>
+     <h1 align="center">Seja bem vindo, terráqueo ( ﾉ ' ')ﾉ</h1>
        <img src="https://i.pinimg.com/originals/58/5f/b8/585fb871dc5698ad1b71f838072cc335.gif" alt="Star Kirby" style="width: 100%; border: none;"/>
+    <div align="center">
+      
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juziss&show_icons=true&locale=en&layout=compact&line_height=2-10&title_color=AE00FF&icon_color=2234AE&text_color=D3D3D3&bg_color=transparent" width="300"  alt="0xabdulkhalid"/>
+</a>
+    </div>   
     </td>
     <td>
 
