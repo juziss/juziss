@@ -32,7 +32,7 @@
 
 🛸 <i>EXP</i>
   
-- Estágio Laboratório de Educação Digital (LED)
+- Laboratório de Educação Digital (LED)
 - Freelas
 
 🛸 <i>Sobre Mim</i>
